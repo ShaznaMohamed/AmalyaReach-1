@@ -11,6 +11,6 @@
 ####php artisan db:seed
 
 ##Website Running
-####Go to inside of the directory
+####Go inside the directory from cmd
 ####php artisan serve
-####localhost:8000
+####Go to localhost:8000
