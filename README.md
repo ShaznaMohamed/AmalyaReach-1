@@ -1,16 +1,19 @@
 # AmalyaReach
 
-##Databse Information
-####MySQL databse name  : amalyareah
-####MySQL username      : root
-####MySQL password      : ''
+#### Configuration
+Edit configuration files in `app/config` directory.
 
-##After Forking
-####composer install
-####php artisan migrate
-####php artisan db:seed
+####Databse Information
+```MySQL databse name  : amalyareah```
+```MySQL username      : root```
+```MySQL password      : ''```
 
-##Website Running
-####Go inside the directory from cmd
-####php artisan serve
-####Go to localhost:8000
+####After Forking
+```composer install```
+```php artisan migrate```
+```php artisan db:seed```
+
+####Website Running
+```Go inside the directory from cmd```
+```php artisan serve```
+```Go to localhost:8000```
