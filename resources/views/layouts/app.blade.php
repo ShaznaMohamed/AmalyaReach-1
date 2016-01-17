@@ -23,6 +23,14 @@
         .fa-btn {
             margin-right: 6px;
         }
+
+        #widgetsize {
+            width: 200px;
+            height: 100px;
+            float: right;
+            background-color: transparent;
+
+        }
     </style>
 </head>
 <body id="app-layout">
