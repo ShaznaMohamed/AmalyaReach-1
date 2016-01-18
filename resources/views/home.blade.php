@@ -1,7 +1,17 @@
-@extends('templates.default')
+@extends('layouts.app')
 
 @section('content')
-        <h3>Hello Amalyaa</h3>
-        <p>Homepage is here !!!</p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="panel panel-default">
+                <div class="panel-heading">Dashboard</div>
 
-@stop
+                <div class="panel-body">
+                    You are logged in!
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@endsection
