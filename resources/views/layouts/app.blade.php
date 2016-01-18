@@ -19,6 +19,27 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 
+<<<<<<< HEAD
+        .fa-btn {
+            margin-right: 6px;
+        }
+
+        #widgetsize {
+            width: 100px;
+            height: 0px;
+            float: right;
+        }
+
+        #news-main {
+            border: green;
+            background: transparent;
+            width: 300px;
+            float: right;
+        }
+
+    </style>
+=======
+>>>>>>> refs/remotes/Savithra/master
 </head>
 <body class="app-layout">
 <br>
