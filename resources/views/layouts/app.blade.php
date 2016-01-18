@@ -25,12 +25,18 @@
         }
 
         #widgetsize {
-            width: 200px;
-            height: 100px;
+            width: 100px;
+            height: 0px;
             float: right;
-            background-color: transparent;
-
         }
+
+        #news-main {
+            border: green;
+            background: transparent;
+            width: 300px;
+            float: right;
+        }
+
     </style>
 </head>
 <body id="app-layout">
