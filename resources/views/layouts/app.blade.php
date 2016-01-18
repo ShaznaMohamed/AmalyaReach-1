@@ -19,8 +19,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
 
-<<<<<<< HEAD
-        .fa-btn {
+       .fa-btn {
             margin-right: 6px;
         }
 
@@ -38,8 +37,7 @@
         }
 
     </style>
-=======
->>>>>>> refs/remotes/Savithra/master
+
 </head>
 <body class="app-layout">
 <br>
