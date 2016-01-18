@@ -1,5 +1,6 @@
 ## Laravel PHP Framework
 
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
@@ -25,3 +26,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+=======
+#### Configuration
+Edit configuration files in `app/config` directory.
+
+####Databse Information
+```MySQL databse name  : amalyareah```
+```MySQL username      : root```
+```MySQL password      : ''```
+
+####After Forking
+```composer install```
+```php artisan migrate```
+```php artisan db:seed```
+
+####Website Running
+```Go inside the directory from cmd```
+```php artisan serve```
+```Go to localhost:8000```
+>>>>>>> refs/remotes/Savithra/master
