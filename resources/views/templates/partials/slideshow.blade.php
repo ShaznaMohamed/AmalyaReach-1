@@ -8,8 +8,7 @@
     <img src="https://drive.google.com/uc?export=view&id=0B8uoQ-Ue05dOTFJTT2w2Zll1TGc">
     <img src="https://drive.google.com/uc?export=view&id=0B8uoQ-Ue05dOaF9hY0UtNEFiaVE">
 </div>
-<!--slideshow-->
-
+<
 <script language="javascript">
 
     var p=$('#content').responsiveSlides({
@@ -39,4 +38,3 @@
 
     });
 </script>
-<!--end of slide-->
