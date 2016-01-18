@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@include('templates.partials.slideshow')
 @section('content')
 <div class="container">
     <div class="row">
