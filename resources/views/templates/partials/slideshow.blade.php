@@ -8,6 +8,10 @@
     <img src="https://drive.google.com/uc?export=view&id=0B8uoQ-Ue05dOaF9hY0UtNEFiaVE">
 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<!--slideshow-->
+>>>>>>> parent of 9ffb6d1... Code clean up
 =======
 <!--slideshow-->
 >>>>>>> parent of 9ffb6d1... Code clean up
@@ -48,6 +52,10 @@
     });
 </script>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<!--end of slide-->
+>>>>>>> parent of 9ffb6d1... Code clean up
 =======
 <!--end of slide-->
 >>>>>>> parent of 9ffb6d1... Code clean up
