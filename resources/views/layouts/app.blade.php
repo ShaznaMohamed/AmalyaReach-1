@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Amalya Reach</title>
+    <title>Laravel</title>
 
     <!-- Fonts -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel='stylesheet' type='text/css'>
@@ -13,15 +13,15 @@
 
     <!-- Styles -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <link href="css/style.css" rel="stylesheet">
+    {{-- <link href="{{ elixir('css/app.css') }}" rel="stylesheet"> --}}
 
 </head>
-<body class="app-layout">
 
+<body id="app-layout">
     <nav class="navbar-default">
         <div class="container">
-            <div class="navbar-header" >
+            <div class="navbar-header">
                 <!-- Collapsed Hamburger -->
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#app-navbar-collapse">
                     <span class="sr-only">Toggle Navigation</span>
@@ -31,7 +31,9 @@
                 </button>
 
                 <!-- Branding Image -->
-                <a class="navbar-brand" href="{{ url('/') }}"> Amalya Reach </a>
+                <a class="navbar-brand" href="{{ url('/') }}">
+                    Laravel
+                </a>
             </div>
 
             <div class="collapse navbar-collapse" id="app-navbar-collapse">
@@ -67,30 +69,8 @@
     <!-- JavaScripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/modernizr.custom.js"></script>
-
-    <script>
-        var $head = $( '#navbar-default' );
-        $( '.ha-waypoint' ).each( function(i) {
-            var $el = $( this ),
-                    animClassDown = $el.data( 'animateDown' ),
-                    animClassUp = $el.data( 'animateUp' );
-
-            $el.waypoint( function( direction ) {
-                if( direction === 'down' && animClassDown ) {
-                    $head.attr('class', 'navbar-default ' + animClassDown);
-                }
-                else if( direction === 'up' && animClassUp ){
-                    $head.attr('class', 'navbar-default ' + animClassUp);
-                }
-            }, { offset: '100%' } );
-        } );
-    </script>
     {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
 </body>
-
 @include('templates.partials.footer')
 
 </html>

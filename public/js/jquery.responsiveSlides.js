@@ -1,9 +1,4 @@
-/**
- * Copyright (c) 2014 Leonardo Pinori - leodudedev(at)gmail(dot)com | https://github.com/leodudedev
- * Dual licensed under MIT and GPL.
- * @author Leonardo Pinori
- * @version 1.2.0
- */
+
 (function($){
 	$.fn.responsiveSlides = function(options){
 		var _this=this;
