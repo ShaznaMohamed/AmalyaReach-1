@@ -7,6 +7,10 @@
     <img src="https://drive.google.com/uc?export=view&id=0B8uoQ-Ue05dOTFJTT2w2Zll1TGc">
     <img src="https://drive.google.com/uc?export=view&id=0B8uoQ-Ue05dOaF9hY0UtNEFiaVE">
 </div>
+<<<<<<< HEAD
+=======
+<!--slideshow-->
+>>>>>>> parent of 9ffb6d1... Code clean up
 
 <script language="javascript">
 
@@ -43,3 +47,7 @@
 
     });
 </script>
+<<<<<<< HEAD
+=======
+<!--end of slide-->
+>>>>>>> parent of 9ffb6d1... Code clean up
