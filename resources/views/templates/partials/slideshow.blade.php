@@ -10,6 +10,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<!--slideshow-->
+>>>>>>> parent of 9ffb6d1... Code clean up
 =======
 <!--slideshow-->
 >>>>>>> parent of 9ffb6d1... Code clean up
@@ -58,6 +62,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<!--end of slide-->
+>>>>>>> parent of 9ffb6d1... Code clean up
 =======
 <!--end of slide-->
 >>>>>>> parent of 9ffb6d1... Code clean up

@@ -20,6 +20,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link href="css/style.css" rel="stylesheet">
     {{-- <link href="{{ elixir('css/app.css') }}" rel="stylesheet"> --}}
 
@@ -27,6 +28,38 @@
 
 <body id="app-layout">
     <nav class="navbar-default">
+=======
+
+<style>
+       .fa-btn {
+            margin-right: 6px;
+        }
+
+        #widgetsize {
+            width: 100px;
+            height: 0px;
+            float: right;
+        }
+
+        #news-main {
+            border: green;
+            background: transparent;
+            width: 300px;
+            float: right;
+        }
+
+    </style>
+
+</head>
+<body class="app-layout">
+<br>
+<br>
+
+<br>
+<br>
+
+<nav class="navbar-default">
+>>>>>>> parent of 9ffb6d1... Code clean up
 =======
 
 <style>
@@ -138,7 +171,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     Laravel
+=======
+                    Amalya Reach
+>>>>>>> parent of 9ffb6d1... Code clean up
 =======
                     Amalya Reach
 >>>>>>> parent of 9ffb6d1... Code clean up
